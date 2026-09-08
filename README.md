@@ -41,34 +41,18 @@ No back-end, trabalho principalmente com **PHP** e **Laravel**, além de **Pytho
 ![HTML5](https://img.shields.io/badge/HTML5-0B2545?style=for-the-badge&logo=html5&logoColor=4CC9F0)
 ![CSS3](https://img.shields.io/badge/CSS3-0B2545?style=for-the-badge&logo=css3&logoColor=4CC9F0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B2545?style=for-the-badge&logo=javascript&logoColor=4CC9F0)
-![Vue.js](https://img.shields.io/badge/Vue.js-0B2545?style=for-the-badge&logo=vuedotjs&logoColor=4CC9F0)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0B2545?style=for-the-badge&logo=tailwindcss&logoColor=4CC9F0)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0B2545?style=for-the-badge&logo=bootstrap&logoColor=4CC9F0)
-![Angular](https://img.shields.io/badge/Angular-0B2545?style=for-the-badge&logo=angular&logoColor=4CC9F0)
-![Quasar](https://img.shields.io/badge/Quasar-0B2545?style=for-the-badge&logo=quasar&logoColor=4CC9F0)
+
 
 **Back-End**
 
-![PHP](https://img.shields.io/badge/PHP-0B2545?style=for-the-badge&logo=php&logoColor=4CC9F0)
-![Laravel](https://img.shields.io/badge/Laravel-0B2545?style=for-the-badge&logo=laravel&logoColor=4CC9F0)
-![Slim](https://img.shields.io/badge/Slim-0B2545?style=for-the-badge&logo=slim&logoColor=4CC9F0)
 ![Python](https://img.shields.io/badge/Python-0B2545?style=for-the-badge&logo=python&logoColor=4CC9F0)
-![Prisma](https://img.shields.io/badge/Prisma-0B2545?style=for-the-badge&logo=prisma&logoColor=4CC9F0)
-![NestJS](https://img.shields.io/badge/NestJS-0B2545?style=for-the-badge&logo=nestjs&logoColor=4CC9F0)
-![Artisan](https://img.shields.io/badge/Artisan-0B2545?style=for-the-badge&logo=laravel&logoColor=4CC9F0)
+
 
 **Banco de Dados & Ferramentas**
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0B2545?style=for-the-badge&logo=microsoftsqlserver&logoColor=4CC9F0)
-![Oracle](https://img.shields.io/badge/Oracle-0B2545?style=for-the-badge&logo=oracle&logoColor=4CC9F0)
-![Informix](https://img.shields.io/badge/Informix-0B2545?style=for-the-badge&logo=ibm&logoColor=4CC9F0)
-![MySQL](https://img.shields.io/badge/MySQL-0B2545?style=for-the-badge&logo=mysql&logoColor=4CC9F0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B2545?style=for-the-badge&logo=postgresql&logoColor=4CC9F0)
 ![Git](https://img.shields.io/badge/Git-0B2545?style=for-the-badge&logo=git&logoColor=4CC9F0)
-![Docker](https://img.shields.io/badge/Docker-0B2545?style=for-the-badge&logo=docker&logoColor=4CC9F0)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0B2545?style=for-the-badge&logo=github-actions&logoColor=4CC9F0)
-![Swagger](https://img.shields.io/badge/Swagger-0B2545?style=for-the-badge&logo=swagger&logoColor=4CC9F0)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0B2545?style=for-the-badge&logo=rabbitmq&logoColor=4CC9F0)
+
 
 </details>
 
