@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,100:1E90FF&height=220&section=header&text=Andrei%20Luciano%20Dietrich&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Back-End%20%26%20Front-End&descAlignY=55&descSize=20" width="100%"/>
 
-[![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/Gesshokuuyu?color=1E3A8A&labelColor=0B2545&style=for-the-badge&logo=star&label=estrelas)](https://github.com/Gesshokuuyu?tab=repositories&sort=stargazers)
-[![GitHub Followers](https://custom-icon-badges.demolab.com/github/followers/Gesshokuuyu?color=1E3A8A&labelColor=0B2545&style=for-the-badge&logo=github&label=seguidores&logoColor=white)](https://github.com/Gesshokuuyu?tab=followers)
-![Visitas](https://komarev.com/ghpvc/?username=Gesshokuuyu&style=for-the-badge&color=1E3A8A&label=visitas)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End+%26+Front-End;Engenharia+de+Software+%40+Univille;Apaixonado+por+resolver+problemas+reais;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
